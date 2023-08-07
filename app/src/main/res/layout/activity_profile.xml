@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/turquoise"
+    tools:context=".activities.Profile_Activity">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:gravity="center"
+        android:text="@string/personal_information"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_20ssp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/tv_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/user_name"
+        android:drawableEnd="@drawable/user"
+        android:textColor="#817F7F"
+        android:background="@drawable/custom_input"
+        android:layout_margin="@dimen/_30sdp"
+        android:hint="@string/user_name"
+        android:padding="@dimen/_10sdp"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_title" />
+
+    <TextView
+        android:id="@+id/tv_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/email"
+        android:drawableEnd="@drawable/email"
+        android:textColor="#817F7F"
+        android:background="@drawable/custom_input"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="italic"
+        android:layout_margin="@dimen/_30sdp"
+        android:padding="@dimen/_10sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_username" />
+
+    <TextView
+        android:id="@+id/tv_birthdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/birth_date"
+        android:drawableEnd="@drawable/birthdate"
+        android:textColor="#817F7F"
+        android:background="@drawable/custom_input"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="italic"
+        android:layout_margin="@dimen/_30sdp"
+        android:padding="@dimen/_10sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_email" />
+
+    <TextView
+        android:id="@+id/tv_country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/country"
+        android:drawableEnd="@drawable/flag"
+        android:textColor="#817F7F"
+        android:background="@drawable/custom_input"
+        android:textSize="@dimen/_14ssp"
+        android:textStyle="italic"
+        android:layout_margin="@dimen/_30sdp"
+        android:padding="@dimen/_10sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_birthdate"/>
+
+    <TextView
+        android:id="@+id/tv_radioGroup"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Gender"
+        android:textSize="@dimen/_14ssp"
+        android:drawableEnd="@drawable/male"
+        app:layout_constraintTop_toBottomOf="@id/tv_country"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:background="@drawable/custom_input"
+        android:fontFamily="sans-serif"
+        android:textStyle="italic"
+        android:layout_margin="@dimen/_30sdp"
+        android:padding="@dimen/_10sdp"
+        />
+
+
+    <Button
+        android:id="@+id/btn_edit_profile"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:background="@drawable/button_shape"
+        android:gravity="center"
+        android:text="@string/edit_profile"
+        android:textColor="@color/black"
+        android:textStyle="italic"
+        android:textSize="@dimen/_14ssp"
+        android:layout_marginTop="@dimen/_50sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_radioGroup"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

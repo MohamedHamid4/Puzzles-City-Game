@@ -1,0 +1,1693 @@
+[{
+  "level_no": 1,
+  "unlock_points": 0,
+  "questions": [{
+    "id": 1,
+    "title": " أين توجد جزر القمر؟",
+    "answer_1": "",
+    "answer_2": "",
+    "answer_3": "",
+    "answer_4": "",
+    "true_answer": "المحيط الهندي",
+    "points": 1,
+    "duration": 1000,
+    "pattern": {
+      "pattern_id": 3,
+      "pattern_name": "Fill the answer"
+    },
+    "hint": "توجد جزر القمر في المحيط الهندي"
+  }
+  ,{
+    "id": 2,
+    "title": "عدد أحرف اللغة الانجليزية 28 حرف",
+    "answer_1": "",
+    "answer_2": "",
+    "answer_3": "",
+    "answer_4": "",
+    "true_answer": "false",
+    "points": 3,
+    "duration": 1500,
+    "pattern": {
+      "pattern_id": 1,
+      "pattern_name": "True of False"
+    },
+    "hint": "عدد أحرف اللغة الانجليزية 26 حرف فقط"
+  }
+  ,{
+      "id": 3,
+      "title": "عاصمة أثيوبيا هي",
+      "answer_1": "أديس أبابا",
+      "answer_2": "جامايكا",
+      "answer_3": "كوالالمبور",
+      "answer_4": "دبلن",
+      "true_answer": "أديس أبابا",
+      "points": 5,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 2,
+        "pattern_name": "Choose the correct answer"
+      },
+      "hint": "عاصمة أثيوبيا هي أديس أبابا"
+    }
+  ,{
+      "id": 4,
+      "title": "الكوكب الأحمر هو كوكب",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "المريخ",
+      "points": 7,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "الكوكب الأحمر هو كوكب المريخ"
+    }
+  ,{
+      "id": 5,
+      "title": "عدد كواكب المجموعة الشمسية",
+      "answer_1": "10 كواكب",
+      "answer_2": "3 كواكب",
+      "answer_3": "8 كواكب",
+      "answer_4": "12 كوكب",
+      "true_answer": "8 كواكب",
+      "points": 9,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 2,
+        "pattern_name": "Choose the correct answer"
+      },
+      "hint": "عدد كواكب المجموعة الشمسية هو 8 كواكب فقط"
+    }
+  ,{
+      "id": 6,
+      "title": "يحد فلسطين من الشرق لبنان؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "false",
+      "points": 12,
+      "duration": 1500,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "يحد فلسطين من الشرق الأردن"
+    }
+  ,{
+      "id": 7,
+      "title": "أي من الشعوب الذين وضعوا الحروف الهجائية",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "الفينيقيين",
+      "points": 15,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "الفينيقيين هم الذين وضعوا الحروف الهجائية"
+    }
+  ,{
+      "id": 8,
+      "title": "من هي المدينة الأوروبية التي يطلق عليها مدينة الضباب؟",
+      "answer_1": "لندن ",
+      "answer_2": "باريس",
+      "answer_3": "سان دييغو",
+      "answer_4": "إشبيلية",
+      "true_answer": "لندن",
+      "points": 17,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 2,
+        "pattern_name": "Choose the correct answer"
+      },
+      "hint": " يطلق على لندن مدينة الضباب"
+    }
+  ,{
+      "id": 9,
+      "title": "توجد صخرة إيرس في استراليا؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "true",
+      "points": 20,
+      "duration": 1500,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "توجد صخرة إيرس في استراليا"
+    }
+  ]
+},
+  {
+    "level_no": 2,
+    "unlock_points": 10,
+    "questions": [{
+      "id": 1,
+      "title": "من هو الفيلسوف الذي كان تلميذا لسقراط؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "أفلاطون",
+      "points": 3,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "أفلاطون كان تلميذا لسقراط"
+    }
+     ,{
+      "id": 2,
+      "title": "شكل مجرة درب التبانة هو حلزوني",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "true",
+      "points": 5,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "شكل مجرة درب التبانة هو حلزوني"
+    }
+    ,{
+        "id": 3,
+        "title": "يسمى صغير الضفدع",
+        "answer_1": "دنغل",
+        "answer_2": "شرغوف",
+        "answer_3": "يرقة",
+        "answer_4": "كوالا",
+        "true_answer": "شرغوف",
+        "points": 8,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "صغير الضفدع هو الشرغوف"
+      }
+    ,{
+        "id": 4,
+        "title": " الذي اخترع الهاتف هو ماركوني؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "false",
+        "points": 10,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "مخترع الهاتف هو الكسندر جراهام بيل"
+      }
+    ,{
+        "id": 5,
+        "title": "من هي أسرع المخلوقات البحرية",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "التونة",
+        "points": 13,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "التونة تعتبر اسرع المخلوقات البحرية، حيث يعتبر الحوت أكبرها"
+      },
+      {
+        "id": 6,
+        "title": "في أي جامعة تعلم فيها الشاعر أحمد شوقي؟",
+        "answer_1": "جامعة ستانفورد",
+        "answer_2": "جامعة كاليفورنيا",
+        "answer_3": "جامعة عين شمس",
+        "answer_4": "جامعة مونبلييه",
+        "true_answer": "جامعة مونبلييه",
+        "points": 17,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "تعلم الشاعر أحمد شوقي بجامعة مونبلييه الفرنسية"
+      }
+      ,{
+        "id": 7,
+        "title": "كربونات الكالسيوم هو الاسم الكيميائي للطباشير؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 19,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": " الاسم الكيميائي للطباشير هو كربونات الكالسيوم"
+      }
+    ,{
+        "id": 8,
+        "title": "من هو العالم الذي اكتشف الدورة الدموية الصغرى؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "ابن النفيس",
+        "points": 22,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "ابن النفيس هو الذي اكتشف الدورة الدموية الصغرى"
+      },
+      {
+        "id": 9 ,
+        "title": "من أول من ألّف موسوعة عربية للمصطلحات العلمية؟",
+        "answer_1": "الخوارزمي",
+        "answer_2": " ابن سينا",
+        "answer_3": "ابن الهيثم",
+        "answer_4": "ابن بطوطة",
+        "true_answer": "الخوارزمي",
+        "points": 25,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": " يعتبر الخوارزمي أول من ألّف موسوعة عربية للمصطلحات العلمية"
+      }
+    ]
+  },
+  {
+    "level_no": 3,
+    "unlock_points": 20,
+    "questions": [{
+      "id": 1,
+      "title": " ما هو أكبر محيط في العالم؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "المحيط الهادئ",
+      "points": 5,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "أكبر محيط في العالم هو المحيط الهادئ"
+    }
+      ,{
+      "id": 2,
+      "title": " ما هو العلم الذي أطلق عليه العرب علم الحجر؟",
+      "answer_1": "علم الاحياء",
+      "answer_2": "علم الفيزياء",
+      "answer_3": "علم الكيمياء",
+      "answer_4": "علم الصيدلة",
+      "true_answer": "علم الكيمياء",
+      "points": 9,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 2,
+        "pattern_name": "Choose the correct answer"
+      },
+      "hint": "العلم الذي أطلق عليه العرب علما الحجر هو علم الكيمياء"
+    }
+      ,{
+      "id": 3,
+      "title": " أصغر قارة في العالم هي أسيا؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "false",
+      "points": 14,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "أصغر قارة في العالم هي أستراليا"
+    }
+     ,{
+        "id": 4,
+        "title": " ما هو الغاز الأكثر وفرة في الغلاف الجوي للأرض؟",
+        "answer_1": "الأكسجين",
+        "answer_2": "النيتروجين",
+        "answer_3": "الهيليوم",
+        "answer_4": "النيون",
+        "true_answer": "نيتروجين",
+        "points": 18,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "الغاز الأكثر وفرة في الغلاف الجوي للأرض هو غاز النيتروجين"
+      }
+    ,{
+        "id": 5,
+        "title": " ما هي اللغة التي يستخدمها الكمبيوتر لمعالجة البيانات؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "لغة ثنائية",
+        "points": 22,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "اللغة التي يستخدمها الكمبيوتر لمعالجة البيانات هي اللغة الثنائية"
+      }
+    ,{
+        "id": 6,
+        "title": "عدد فقرات رقبة الزرافة هو سبعة فقرات؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 25,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "تملتك الزرافة سبع فقرات في رقبتها"
+      }
+    ,{
+        "id": 7,
+        "title": " ما هو اللون الذي يستحيل النحل أن يراه؟",
+        "answer_1": "اللون الأسود",
+        "answer_2": "اللون الاخضر",
+        "answer_3": "اللون الازرق",
+        "answer_4": "اللون الأحمر",
+        "true_answer": "اللون الأحمر",
+        "points": 27,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "اللون الأحمر لانه يراه أسود"
+      }
+    ,{
+        "id": 8,
+        "title": "ما عدد الدول العربية الموجودة في قارة أفريقيا؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "9 دول عربية",
+        "points": 29,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "9 دول عربية موجودة في قارة أفريقيا"
+      }
+    ,{
+        "id": 9,
+        "title": "عام 1973 صعدت فيه أمريكا إلى الفضاء؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "false",
+        "points": 30,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "عام 1962 صعدت فيه أمريكا إلى الفضاء"
+      }
+    ]
+  },
+  {
+    "level_no": 4,
+    "unlock_points": 23,
+    "questions": [{
+      "id": 1,
+      "title": "ما هي عملة الصين؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "الرنمينبي",
+      "points": 9,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "عملة الصين هي الرنمينبي"
+   },
+   {
+      "id": 2,
+      "title": "اسم الالة الموسيقى اليوناني أبولو؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "true",
+      "points": 12,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "اسم الالة الموسيقى اليوناني أبولو"
+    },
+      {
+        "id": 3,
+        "title": " أي دولة منحت تمثال الحرية للولايات المتحدة؟",
+        "answer_1": "السويد",
+        "answer_2": "المانيا",
+        "answer_3": "النيرويج",
+        "answer_4": "فرنسا",
+        "true_answer": "فرنسا",
+        "points": 15,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "الدولة التي منحت تمثال الحرية للولايات المتحدة هي فرنسا"
+      },
+      {
+        "id": 4,
+        "title": "اذكر اسم المعدن الذي يمتاز بخفة وزنه؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "معدن الليثيوم",
+        "points": 17,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "معدن الليثيوم يعتبر من المعادن خفيفة الوزن"
+      },
+      {
+        "id": 5,
+        "title": "مقياس سرعة السفن هي العقدة",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 19,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "مقياس سرعة السفن هي العقدة"
+      }
+    ,{
+        "id": 6,
+        "title": "مصطلح يطلق على علم دراسة طبيعة الأمراض وأسبابها بـ..؟",
+        "answer_1": "علم البولوجيا",
+        "answer_2": "علم الايثولوجي",
+        "answer_3": "علم الباثولوجيا",
+        "answer_4": "علم الجولوجيا",
+        "true_answer": "علم الباثولوجيا",
+        "points": 22,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "يعرف علم دراسة طبيعة الأمراض وأسبابها بـ علم الباثولوجيا"
+      },
+      {
+        "id": 7,
+        "title": "ما هو أكبر خليج في العالم؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "خليج المكسيك",
+        "points": 25,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "يعتبر خليج المكسيك أكبر خليج في العالم"
+      },
+      {
+        "id": 8,
+        "title": "الحمار الوجشي هو الحيوان الذي لا يشرب الماء؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "false",
+        "points": 28,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "الكنغر البري  هو الحيوان الذي لا يشرب الماء"
+      }
+    ,{
+        "id": 9,
+        "title": "ما هو أطول جسر بحري في العالم؟",
+        "answer_1": "جسر الساعة",
+        "answer_2": "جسر الملك فهد",
+        "answer_3": "جسر الشيخ جابر الأحمد الصباح",
+        "answer_4": "جسر بريمان",
+        "true_answer": "جسر الملك فهد",
+        "points": 30,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": " يعد جسر الملك فهد هو أطول جسر بحري في العالم وهو يربط بين السعودية والبحرين"
+      }
+    ]
+  },
+  {
+    "level_no": 5,
+    "unlock_points": 26,
+    "questions": [{
+      "id": 1,
+      "title": "من هو العالم المصري الذي حصل على جائزة نوبل؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "أحمد زويل",
+      "points": 10,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": " أحمد زويل هو العالم المصري الذي حصل على جائزة نوبل"
+    }
+      ,{
+      "id": 2,
+      "title": "ينبع نهر تاجه من جبال كونكا المتواجد في الدنمارك",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "false",
+      "points": 12,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "ينبع نهر تاجه من جبال كونكا المتواجد في أسبانيا"
+    },
+      {
+        "id": 3,
+        "title": "من هي أول دولة  في العالم رائدة في إنتاج القطن؟",
+        "answer_1": "الصين",
+        "answer_2": "الولايات المتحدة الأمريكية",
+        "answer_3": "روسيا",
+        "answer_4": "استراليا",
+        "true_answer": "الولايات المتحدة الأمريكية",
+        "points": 13,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "أول دولة  في العالم رائدة في إنتاج القطن هي الولايات المتحدة الأمريكية"
+      }
+    ,{
+        "id": 4,
+        "title": "دولة بوليفيا من دول قارة أمريكا الجنوبية",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 14,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "دولة بوليفيا من دول قارة أمريكا الجنوبية"
+      }
+    ,{
+        "id": 5,
+        "title": "ما هو البحر الذي تحيط به أربع دول روسيا ورمانيا وبلغاريا وتركيا؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "البحر الأسود",
+        "points": 15,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "البحر الذي تحيط به الأربع دول هو البحر الأسود"
+      }
+      ,{
+        "id": 6,
+        "title": "ما هو أقدم متاحف العالم؟",
+        "answer_1": "متحف اللوفر",
+        "answer_2": "متحف الإسكندرية",
+        "answer_3": "متحف الفاتيكان",
+        "answer_4": "متحف سيمثونيان",
+        "true_answer": "متحف الإسكندرية",
+        "points": 16,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "متحف الإسكندرية في مصر"
+      }
+    ]
+  },
+  {
+    "level_no": 6,
+    "unlock_points": 14,
+    "questions": [{
+      "id": 1,
+      "title": "ما هي الدولة العربية التي يمر فيها خط الإستواء؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "الصومال",
+      "points": 15,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "يمر خط الإستواء داخل دولة الصومال"
+    }
+      ,{
+      "id": 2,
+      "title": "هل الطاقة التي يولدها البرق هي طاقة كهرومغناطيسية ",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "false",
+      "points": 16,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "الطاقة التي يولدها البرق هي طاقة كهربائية"
+    },
+      {
+        "id": 3,
+        "title": "إحدى هذه الدول فقط من الدول المؤسسة للجامعة العربية..؟",
+        "answer_1": "العراق",
+        "answer_2": "المغرب",
+        "answer_3": "فلسطين",
+        "answer_4": "الجزائر",
+        "true_answer": "العراق",
+        "points": 17,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "الدولة المؤسسة للجامعة العربية هي العراق"
+      }
+    ,{
+        "id": 4,
+        "title": "من هي المدينة التي كانت حاضرة الدولة الأموية",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "دمشق",
+        "points": 18,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "المدينة التي كانت حاضرة الدولة الأموية هي دمشق"
+      }
+    ,{
+        "id": 5,
+        "title": "هل بحيرة فيكتوريا هي أكبر البحيرات النهرية في العالم؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 19,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "أكبر البحيرات النهرية في العالم هي بحيرة فيكتوريا "
+      }
+      ,{
+        "id": 6,
+        "title": "ما هما الدولتين التي يفصل بينهما بحر آيجة؟",
+        "answer_1": "تركيا واليونان",
+        "answer_2": "تركيا و جورجيا",
+        "answer_3": "اليونان وبلغاريا",
+        "answer_4": "إيطاليا والنمسا",
+        "true_answer": "تركيا واليونان",
+        "points": 20,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "بحر آيجة يفصل بين تركيا واليونان"
+      }
+    ,{
+        "id": 7,
+        "title": "ما هي الدولة الخليجية الأولى التي ظهر بها البترول؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "البحرين",
+        "points": 21,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "البحرين هي الدولة الخليجية الأولى التي ظهر بها البترول"
+      }
+    ,{
+        "id": 8,
+        "title": "المدينة التي تُعرف بالتلال السبعة هي مدينة ميلان الايطاليا؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "false",
+        "points": 22,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "المدينة التي تُعرف بالتلال السبعة هي مدينة روما"
+      }
+    ,{
+        "id": 9,
+        "title": "اي عام أنفجرت مركبة الفضاء تشالنجر؟",
+        "answer_1": "عام 2003",
+        "answer_2": "عام 1874",
+        "answer_3": "عام 1698",
+        "answer_4": "عام 1986",
+        "true_answer": "عام 1986",
+        "points": 23,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "أنفجرت مركبة الفضاء تشالنجر عام 1986"
+      }
+    ]
+  },
+  {
+    "level_no": 7,
+    "unlock_points": 19,
+    "questions": [{
+      "id": 1,
+      "title": "ما هي الأهمية الخاصة بمضيق البسفور؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "يربط بين البحر الأسود وبحر مرمرة",
+      "points": 17,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "الأهمية مضيق البسفور يربط بين البحر الأسود وبحر مرمرة"
+    }
+      ,{
+      "id": 2,
+      "title": "أول من أخترع الحاسبة هو باسكال؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "true",
+      "points": 18,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "أول من أخترع الحاسبة هو باسكال"
+    },
+      {
+        "id": 3,
+        "title": "ما هي عاصمة كوستاريكا؟",
+        "answer_1": "سان جوزيه",
+        "answer_2": "كتمندو",
+        "answer_3": "رانغون",
+        "answer_4": "أولان باتور",
+        "true_answer": "سان جوزيه",
+        "points": 19,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "عاصمة كوستاريكا هي سان جوزيه"
+      },
+      {
+        "id": 4,
+        "title": "ما هي الدولة التي تحوز أكبر عدد من البحيرات العذبة ضمن حدود أراضيها؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "فلندا",
+        "points": 20,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "فلندا هي الدولة التي تحوز أكبر عدد من البحيرات العذبة ضمن حدود أراضيها"
+      }
+    ,{
+        "id": 5,
+        "title": "البناء الضوئي هي العملية التي تحصل النباتات من خلالها على الغذاء؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 21,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "العملية التي تحصل النباتات من خلالها على الغذاء هي عملية البناء الضوئي"
+      }
+    ,{
+        "id": 6,
+        "title": "ما هو أطول نهر في العالم؟",
+        "answer_1": "نهر تاجة",
+        "answer_2": "نهر النيل",
+        "answer_3": "نهر الأمازون",
+        "answer_4": "نهرالفرات",
+        "true_answer": "نهر الأمازون",
+        "points": 22,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "أطول نهر في العالم هو نهر الأمازون"
+      }
+    ]
+  },
+  {
+    "level_no": 8,
+    "unlock_points": 18,
+    "questions": [{
+      "id": 1,
+      "title": "في اي سنة غرقت سفينة تيتانيك؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "1912",
+      "points": 20,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "سنة 1912 غرقت سفينة تيتانيك"
+    }
+      ,{
+      "id": 2,
+      "title": "يوجد 30 عظمة في القدم؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "false",
+      "points": 22,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "يوجد 26 عظمة في القدم"
+    },
+      {
+        "id": 3,
+        "title": "كم يبلغ أرتفاع قمة إفرست والتي تعتبر أعلى قمة في العالم؟",
+        "answer_1": "4480 متر",
+        "answer_2": "8845 متر",
+        "answer_3": "6650 متر",
+        "answer_4": "9850 متر",
+        "true_answer": "8845 متر",
+        "points": 24,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "تبلغ أرتفاع قمة إفرست 8845 متر"
+      }
+    ,{
+        "id": 4,
+        "title": "أكبر سد في العالم يوجد في الباكستان",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 27,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "أكبر سد في العالم يوجد في الباكستان"
+      }
+    ,{
+        "id": 5,
+        "title": "قبرص أخذت أسمها من اللاتينية(كيبروس) وهي تعني؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "النحاس",
+        "points": 30,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "اسم قبرص مستوحى من النحاس"
+      },
+      {
+        "id": 6,
+        "title": "ما اسم المجرة التي تقع فيها الأرض؟",
+        "answer_1": "درب التبانة",
+        "answer_2": "درب الجبار",
+        "answer_3": "درب المجمرة",
+        "answer_4": "درب إريس",
+        "true_answer": "درب التبانة",
+        "points": 35,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "درب التبانة هي المجرة التي تقع فيها الأرض"
+      },
+      {
+        "id": 7,
+        "title": "هل أوتارو هي عاصمة كندا",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 37,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": " عاصمة كندا هي أوتارو"
+      }
+    ,{
+        "id": 8,
+        "title": "قبرص أخذت أسمها من اللاتينية(كيبروس) وهي تعني؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "النحاس",
+        "points": 38,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "اسم قبرص مستوحى من النحاس"
+      },
+      {
+        "id": 9,
+        "title": "كم عدد القارات في العالم؟",
+        "answer_1": "6 قارات",
+        "answer_2": "5 قارات،",
+        "answer_3": "9 قارات،",
+        "answer_4": "7 قارات",
+        "true_answer": "7 قارات",
+        "points": 40,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "يوجد في العالم 7 قارات"
+      }
+    ]
+  },
+  {
+    "level_no": 9,
+    "unlock_points": 30,
+    "questions": [{
+      "id": 1,
+      "title": "شكل هندسي ليس له زوايا، ما هو؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "الدائرة",
+      "points": 13,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "الدائرة من الاشكال الهندسية التي لايوجد به زوايا"
+    }
+      ,{
+      "id": 2,
+      "title": "يعتبر الماس من المعدن التي تحتوي على موصلة حرارية؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "true",
+      "points": 15,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "الماس من المعدن التي تحتوي على موصلة حرارية؟"
+    },
+      {
+        "id": 3,
+        "title": "البوسنة والهرسك إحدى الدول الأوربية المطلة على…؟",
+        "answer_1": "البحر المتوسط",
+        "answer_2": "البحر الأسود",
+        "answer_3": "بحر المالطي",
+        "answer_4": "البحر الأحمر ",
+        "true_answer": "البحر المتوسط",
+        "points": 17,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "البوسنة والهرسك إحدى الدول الأوربية المطلة على البحر المتوسط"
+      }
+    ,{
+        "id": 4,
+        "title": "هل الأنباط هم من بنو مدينة البتراء في الأردن؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 19,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "الذين بنو مدينة البتراء هم الانباط"
+      },
+      {
+        "id": 5,
+        "title": "ما هو أطول نهر في العالم؟",
+        "answer_1": "نهر تاجة",
+        "answer_2": "نهر النيل",
+        "answer_3": "نهر الأمازون",
+        "answer_4": "نهرالفرات",
+        "true_answer": "نهر الأمازون",
+        "points": 20,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "أطول نهر في العالم هو نهر الأمازون"
+      }
+    ,{
+        "id": 6,
+        "title": "من هو الدي لقب بشاعر القضية الفلسطينية",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "محمود درويش",
+        "points": 23,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "الدي لقب بشاعر القضية الفلسطينية هو محمود درويش"
+      },
+      {
+        "id": 7,
+        "title": "هل الضفدع يموت اذا فتح فمه أكثر من 30 دقيقة",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 25,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "صحيح اذا فتح الضفدع فمه لاكثر من 30 دقسقة فأنه يموت"
+      },
+      {
+        "id": 8,
+        "title": "في عام 2004 أصاب تسونامي إحدى الدول الآسيوية، من هي هذه الدولة؟",
+        "answer_1": "اليابان",
+        "answer_2": "فلبين",
+        "answer_3": "أندونيسيا",
+        "answer_4": "كمبوديا",
+        "true_answer": "أندونيسيا",
+        "points": 27,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "الدولة التي اصابها التسونامي هي أندونيسيا"
+      }
+    ,{
+        "id": 9,
+        "title": "أني عشقتك.. وأتخذت قراري فلمن يا ترى أقدم أعذاري لا سلطة في الحب تعلو سلطتي فالرأي رأيي والخيار خياري(من القائل)",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "نزار قباني",
+        "points": 30,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "الشاعر نزار قباني هو من قال هذا البيت"
+      }
+    ]
+  },
+  {
+    "level_no": 10,
+    "unlock_points": 28,
+    "questions": [{
+      "id": 1,
+      "title": "عاصمة عربية كانت تسمى قديما(فيلادليفيا) من هي؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "عمان",
+      "points": 18,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "عاصمة عربية كانت تسمى قديما(فيلادليفيا) هي عمان"
+    }
+      ,{
+      "id": 2,
+      "title": "يقع نهر ماكتري في البرازيل",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "false",
+      "points": 19,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "يقع نهر ماكتري في كندا"
+    },
+      {
+        "id": 3,
+        "title": "ماذ يعني أسم الولاية الامريكية لوس أنجلوس؟",
+        "answer_1": "مدينة الحدائق",
+        "answer_2": "مدينة النور",
+        "answer_3": "مدينة الكنوز ",
+        "answer_4": "مدينة الملائكة",
+        "true_answer": "مدينة الملائكة",
+        "points": 20,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "لوس أنجلوس معناها مدينة الملائكة"
+      }
+    ,{
+        "id": 4,
+        "title": "ما هو الاسم الآخر لجمهورية المجر؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "هنغاريا",
+        "points": 21,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "الاسم الآخر لجمهورية المجر هو هنغاريا"
+      },
+      {
+        "id": 5,
+        "title": "آخر من حمل اسم لويس من ملوك فرنسا هو لويس السادس عشر؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "false",
+        "points": 22,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "آخر من حمل اسم لويس من ملوك فرنسا هو لويس الثامن عشر"
+      },
+      {
+        "id": 6,
+        "title": "في عام 1963 وقعت حرب تسمى حرب الرمال بين دولتين عربيتين، فمن هما؟",
+        "answer_1": "المغرب موريتانيا",
+        "answer_2": "المغرب والجزائر",
+        "answer_3": "الجزائر و تونس",
+        "answer_4": "ليبيا و السودان",
+        "true_answer": "المغرب والجزائر",
+        "points": 23,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "وقعت حرب تسمى حرب الرمال بين المغرب والجزائر"
+      }
+    ,{
+        "id": 7,
+        "title": "من هو مخترع الطائرة المائية؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "هنري فابر",
+        "points": 24,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "مخترع الطائرة المائية هو العالم هنري فابر، من فرنسا"
+      },
+      {
+        "id": 8,
+        "title": "أقيمت دورة الألعاب الأوليمبية الشتوية لعام 2014 في روسيا؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 25,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "صحيح أقيمت دورة اللعاب الشتوية في روسيا"
+      },
+      {
+        "id": 9,
+        "title": "لأي رسام إيطالي تنتمي لوحة the Benois Madonna؟",
+        "answer_1": "ليوناردو دا فينشي",
+        "answer_2": "فرانسيسكو موري",
+        "answer_3": "بيترو بيروجينو",
+        "answer_4": "جوفاني بيليني",
+        "true_answer": "ليوناردو دا فينشي",
+        "points": 30,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "تنتمي هذه الوحة الى الفنان ليوناردو دا فينشي"
+      }
+    ]
+  },
+  {
+    "level_no": 11,
+    "unlock_points": 25,
+    "questions": [{
+      "id": 1,
+      "title": "الى ماذا يشير مصطلح الذهب الاسود؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "البترول",
+      "points": 20,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "يشير مصطلح الذهب الاسود الى البترول"
+    }
+      ,{
+      "id": 2,
+      "title": "البحرين تعتبر من أصغر الدول مساحة؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "true",
+      "points": 23,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": "البحرين تعتبر من أصغر الدول مساحة؟"
+    },
+      {
+        "id": 3,
+        "title": "متى قامت أمريكا بأول رحلة فضائية؟",
+        "answer_1": "عام 1962",
+        "answer_2": "عام 1867",
+        "answer_3": "عام 1988 ",
+        "answer_4": "عام 2000",
+        "true_answer": "عام 1962",
+        "points": 25,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "قامت أمريكا بأول رحلة فضائية عام 1962"
+      }
+    ,{
+        "id": 4,
+        "title": "ما اسم الكائن البحري الأكثر ذكاءاً",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "الدولفين",
+        "points": 27,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "الكائن البحري الأكثر ذكاءاً هو الدولفين"
+      },
+      {
+        "id": 5,
+        "title": "هل الزئبق هو المعدن الوحيد الذي يوجد في حالة سائلة؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 30,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "صحيح الزئبق هو المعدن الوحيد الذي يوجد في حالة سائلة"
+      },
+      {
+        "id": 6,
+        "title": "من أي نبات يتم استخراج عقار المورفين؟",
+        "answer_1": "نبات الخشخاش",
+        "answer_2": " تبات الصبار",
+        "answer_3": "نبات ماميلاريا",
+        "answer_4": "نبات كالانشو",
+        "true_answer": "نبات الخشخاش",
+        "points": 33,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "يتم استخراج عقار المورفين من نبات الخشخاش"
+      },
+      {
+        "id": 7,
+        "title": "من هي أول دولة عرفت لعبة الشطرنج؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "الهند",
+        "points": 37,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": " الهند هي أول دولة عرفت لعبة الشطرنج"
+      },
+      {
+        "id": 8,
+        "title": "تتخذ الهند طائر النسر شعارًا لها؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "false",
+        "points": 39,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "تتخذ الهند طائر الطاووس شعارًا لها"
+      },
+      {
+        "id": 9,
+        "title": "ما هو اسم أكثر رياضة شهرة في إسبانيا؟",
+        "answer_1": "مصارعة الحزام",
+        "answer_2": "مصارعة حرة",
+        "answer_3": "مصارعة الثيران",
+        "answer_4": "مصارعة ملاكمة",
+        "true_answer": "مصارعة الثيران",
+        "points": 40,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "مصارعة الثيران هي أكثر رياضة مشهورة في إسبانيا"
+      }
+    ]
+  },
+  {
+    "level_no": 12,
+    "unlock_points": 35,
+    "questions": [{
+      "id": 1,
+      "title": "ما هو دور المخيخ في جسم الإنسان؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "ضبط التوازن",
+      "points": 17,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 3,
+        "pattern_name": "Fill the answer"
+      },
+      "hint": "دور المخيخ في جسم الإنسان هو ضبط التوازن"
+    }
+      ,{
+      "id": 2,
+      "title": "%37 هي نسبه المياه من الكره الارضيه ؟",
+      "answer_1": "",
+      "answer_2": "",
+      "answer_3": "",
+      "answer_4": "",
+      "true_answer": "false",
+      "points": 18,
+      "duration": 1000,
+      "pattern": {
+        "pattern_id": 1,
+        "pattern_name": "True of False"
+      },
+      "hint": " نسبه المياه في الكره الارضيه 71%"
+    },
+      {
+        "id": 3,
+        "title": "اي مما يلي يعتبر من أطول الشلالات في العالم؟",
+        "answer_1": "شلالات  فيكتوريا",
+        "answer_2": "شلالات أنجل",
+        "answer_3": " شلالات أنغولا ",
+        "answer_4": " شلالات إجوازو",
+        "true_answer": "شلالات أنجل",
+        "points": 19,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "شلالات أنجل من أطول الشلالات في العالم"
+      }
+    ,{
+        "id": 4,
+        "title": "كم عدد الأحبال الصوتية في جسم الإنسان؟ً",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "أربعة أحبال صوتية",
+        "points": 20,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "يمتلك الانسان أربعة أحبال صوتية "
+      },
+      {
+        "id": 5,
+        "title": "هل الجزائر هي الدولة الأكبر التي تتوجد في قارة أفريقيا؟",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "true",
+        "points": 22,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "صحيح الجزائر هي اكبر دولة موجودة في أفريقيا"
+      },
+      {
+        "id": 6,
+        "title": "كم مرة يتم الحصول على الرقم 9 من الأرقام من 1 إلى 100؟",
+        "answer_1": "17 مرة",
+        "answer_2": "20 مرة",
+        "answer_3": "13 مرة",
+        "answer_4": "6 مرة",
+        "true_answer": "20 مرة",
+        "points": 23,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "يتم الحصول عليه 20 مرة"
+      },
+      {
+        "id": 7,
+        "title": "ما هي البلد التي يُطلق عليها أرض الشمس المشرقة؟ً",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "اليابان",
+        "points": 24,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 3,
+          "pattern_name": "Fill the answer"
+        },
+        "hint": "يطلق على اليابان بأرض الشمس المشرقة"
+      },
+      {
+        "id": 8,
+        "title": "جنسية الملكة التي ساعة كولمبس في أكتشاف أمريكيا هي ألمانيا",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": "",
+        "answer_4": "",
+        "true_answer": "false",
+        "points": 25,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 1,
+          "pattern_name": "True of False"
+        },
+        "hint": "جنسية الملكة هي أسبانيا, زأسمها ايزابيلا نظرتيى"
+      },
+      {
+        "id": 9,
+        "title": "ما هو المضيق الواقع في الطرف الجنوبي من أمريكا الجنوبية؟",
+        "answer_1": "مضيق ماجلان",
+        "answer_2": "مضيق الدردنيل",
+        "answer_3": "مضيق مالاقا",
+        "answer_4": "مضيق باب المندب",
+        "true_answer": "مضيق ماجلان",
+        "points": 30,
+        "duration": 1000,
+        "pattern": {
+          "pattern_id": 2,
+          "pattern_name": "Choose the correct answer"
+        },
+        "hint": "المضيق الواقع في الطرف الجنوبي من أمريكا الجنوبية هو مضيق ماجلان"
+      }
+    ]
+  }
+]

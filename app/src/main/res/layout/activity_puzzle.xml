@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/turquoise"
+    tools:context=".activities.PuzzleActivity">
+
+
+        <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_400sdp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_skip"
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:background="@drawable/button_shape"
+        android:gravity="center"
+        android:padding="@dimen/_10sdp"
+        android:text="Skip"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_16ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/viewPager2">
+    </Button>
+
+    <TextView
+        android:id="@+id/avgquestion"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:textColor="@color/black"
+        android:background="@drawable/button_shape"
+        android:textSize="@dimen/_18ssp"
+        android:gravity="center"
+        android:layout_margin="@dimen/_5sdp"
+        android:padding="@dimen/_10sdp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+        android:id="@+id/idlevel"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:textColor="@color/black"
+        android:background="@drawable/button_shape"
+        android:textSize="@dimen/_18ssp"
+        android:gravity="center"
+        android:layout_margin="@dimen/_5sdp"
+        android:padding="@dimen/_10sdp"
+        app:layout_constraintTop_toBottomOf="@id/avgquestion"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:textColor="@color/black"
+        android:background="@drawable/button_shape"
+        android:textSize="@dimen/_18ssp"
+        android:gravity="center"
+        android:layout_margin="@dimen/_5sdp"
+        android:padding="@dimen/_10sdp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

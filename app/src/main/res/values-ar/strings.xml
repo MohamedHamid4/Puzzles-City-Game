@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Puzzles City Game</string>
+    <string name="enjoy_playing_with_us_amp_develop_your_thinking">أستمتع باللعب معنا وطور تفكيرك</string>
+    <string name="start_play">ابدأ اللعب</string>
+    <string name="settings">الإعدادات</string>
+    <string name="exit">الخروج</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="sounds">اصوات</string>
+    <string name="music">موسيقى</string>
+    <string name="notifications">إشعارات</string>
+    <string name="welcome_in_puzzles_city_n_please_enter_your_information">مرحبًا بك في مدينة الالغاز الرجاء قم بإدخال معلوماتك …</string>
+    <string name="user_name">اسم االمستخدم</string>
+    <string name="email">الأيميل</string>
+    <string name="birth_date">تاريخ الميلاد</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">الغاء</string>
+    <string name="yes">نعم</string>
+    <string name="do_you_want_to_exit_puzzles_city_game">هل تريد الخروج من لعبة مدينة الالغاز ؟</string>
+    <string name="keep_progressing_in_stages">استمر في التقدم في مراحل</string>
+    <string name="are_you_sure_to_delete_all_your_data_n_in_puzzles_city_game">هل أنت متأكد من حذف جميع بياناتك في لعبة مدينة الالغاز ؟</string>
+    <string name="no">لا</string>
+    <string name="Yes">نعم</string>
+    <string name="nothing_was_deleted">لم يتم حذف أي شيء</string>
+    <string name="your_data_has_been_saved_successfully">تم حفظ بياناتك بنجاح</string>
+    <string name="log_out_successfully">تم تسجيل الخروج بنجاح</string>
+    <string name="deleted_successfully">تم الحذف بنجاح</string>
+    <string name="Settings">الاعدادات</string>
+    <string name="please_enter_your_information">من فضلك قم بأدخال المعلومات الخاصة بك</string>
+    <string name="edit">Edit</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="country">الدولة</string>
+    <string name="personal_information">معلوماتك الشخصية</string>
+    <string name="hello_blank_fragment">صفحة فراجمنت فارغة</string>
+
+
+
+    <string name="Entercontrey">إختر الدولة</string>
+
+    <string name="Palestine">فلسطين</string>
+    <string name="Egypt">مصر</string>
+    <string name="Qatar">قطر</string>
+    <string name="SaudiArabia">السعودية</string>
+    <string name="Algeria">الجزائر</string>
+    <string name="Kuwait">الكويت</string>
+    <string name="Lebanon">لبنان</string>
+    <string name="Morocco">المغرب</string>
+    <string name="Sudan">السودان</string>
+    <string name="Syrian">سوريا</string>
+    <string name="Tunisia">تونس</string>
+    <string name="Iraq">العراق</string>
+    <string name="Yemen">اليمن</string>
+    <string name="Oman">عمان</string>
+    <string name="Jordan">الأردن</string>
+
+</resources>
